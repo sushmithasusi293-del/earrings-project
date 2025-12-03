@@ -53,7 +53,7 @@ const Stupp = [
         id: 37,
         img: st7,
         name: 'Perky Pearl Minimal Earrings',
-        price: 699
+        price: 699,
     },
     {
         id: 38,
